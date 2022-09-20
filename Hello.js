@@ -20,4 +20,4 @@ function sumAllPrime(num) {
   }
   return sum;
 }
-console.log(sumAllPrime(10));
+console.log(sumAllPrime(20));
